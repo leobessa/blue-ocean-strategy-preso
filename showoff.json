@@ -2,13 +2,15 @@
      "name": "Blue Ocean Strategy",
      "sections":
     [
-
-        {
-            "section":"book"
-        },
-        {
-            "section":"intro"
-        }
+      {
+        "section":"1_book"
+      },
+      {
+        "section":"2_intro"
+      },
+      {
+        "section":"3_tools"
+      }
     ]
 }
 

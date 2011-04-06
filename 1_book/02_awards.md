@@ -1,8 +1,5 @@
-!SLIDE center
-![Blue Ocean Strategy Book](BOStrategy.jpg)
-
 !SLIDE smbullets
-# Awards #
+# Awards
 * ![businessweek](logo130_businessweek.jpg) Bestseller
 * ![fastcompany](logo130_fastcompany.jpg) Best Book of 2005
 * ![amazon](logo130_amazon.jpg) Top Ten Business Books of 2005
