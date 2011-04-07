@@ -1,2 +1,2 @@
 source :rubygems
-gem "showoff", :path => "~/workspace/showoff"
+gem "showoff", :git => "git://github.com/leobessa/showoff.git"

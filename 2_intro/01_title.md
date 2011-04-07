@@ -1,2 +1,2 @@
-!SLIDE title-slide
+!SLIDE subsection
 # Creating Blue Oceans

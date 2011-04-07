@@ -7,7 +7,7 @@
 
 !SLIDE bullets
 # Value Innovation
-* "If I’d asked people what they wanted, they would have said a faster horse." Henry Ford
+* "If I’d asked people what they wanted, they would have said a faster horse." - Henry Ford
 
 !SLIDE bullets
 # Value Innovation

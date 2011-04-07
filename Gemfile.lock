@@ -1,5 +1,6 @@
-PATH
-  remote: ~/workspace/showoff
+GIT
+  remote: git://github.com/leobessa/showoff.git
+  revision: 1567b0bae38d3130dd27e310dc8cd23209c25c9a
   specs:
     showoff (0.4.0)
       bluecloth
